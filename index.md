@@ -6,21 +6,21 @@ layout: default
 
 **TAs**:
 
-  Siying Cao ([siyingc@uchicago.edu](mailto:siyingc@uchicago.edu))  
   Chaoxing Dai ([chaoxingdai@uchicago.edu](mailto:chaoxingdai@uchicago.edu))  
   Jingyu He ([jingyuhe@uchicago.edu](mailto:jingyuhe@uchicago.edu))  
 
 **Office hours**: by appointment  
 
 **Lectures**:
-Friday 8.30am-11.30am, Harper C04  
-Friday 6pm-9pm, Saturday 9am-12pm, Gleacher 306
+Friday 1.30pm-4.30pm, Harper TBD
+Friday 6pm-9pm, Gleacher TBD
 
-**Review Session**: 12:15pm-1:pm Saturdays, Gleacher Center, Room 304
+**Review Session**: 12:15pm-1:pm Saturdays, Gleacher TBD
 
 [Syllabus](syllabus)  
 [Lectures](lectures)  
 [Project](Project)  
-[Piazza Q&A](https://piazza.com/chicagobooth/winter2017/bus41204/home)  --- You can self-enroll [here](https://piazza.com/chicagobooth/winter2017/bus41204).
+[Piazza Q&A](https://piazza.com/chicagobooth/winter2018/bus41204/home)  --- You can self-enroll [here](https://piazza.com/chicagobooth/winter2018/bus41204).
 
-**Previous versions**: [2015](https://chicagoboothml.github.io/MachineLearning_Fall2015/)
+**Previous versions**: [2015](https://chicagoboothml.github.io/MachineLearning_Fall2015/),
+[2016](https://chicagoboothml.github.io/2016/)

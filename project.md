@@ -7,7 +7,7 @@ permalink: /project/
 Your class project is an opportunity for you to explore an interesting Machine Learning problem of your choice
 in the context of a real-world data set. Your class project must be about new things you have done this semester; you can't use results you have developed in previous semesters. We will provide some project ideas here, but the best idea is to combine Machine Learning with a problem in your business area.
 
-Project should be done in a group of 4 or 5 people. 
+Project must be done in a group.
 
 
 Here are examples of successful projects from past:
@@ -32,7 +32,7 @@ Include the following information:
 
   - _Project Title_
   - _Team members_
-  - _Data Set._ Briefly describe data set that you are going to use. You should have access to this data set, rather than promissing to collect data.
+  - _Data Set._ Briefly describe data set that you are going to use. You should have access to this data set, rather than promising to collect data.
   - _Project Idea._ Describe what you want to achieve. What Machine Learning tools are you going to use?
   How is the data set going to help you answer your question?
 
