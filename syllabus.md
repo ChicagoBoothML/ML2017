@@ -13,7 +13,7 @@ Jingyu He ([jingyuhe@uchicago.edu](mailto:jingyuhe@uchicago.edu))
 
 **Office hours**: by appointment  
 
-**Review Session**: 12:15pm-1:pm Saturdays, Gleacher TBD
+**Review Session**: 12:15pm-1:pm Saturdays, Gleacher 406
 
 ## Piazza Discussion Forum
 
@@ -93,6 +93,11 @@ This book provides a great introduction to Machine Learning.
 Concepts are well explained, without too much technical details. <br/>
 _PDF available online_
 
+[**Deep Learning**](http://www.deeplearningbook.org/) <br>
+*Ian Goodfellow and Yoshua Bengio and Aaron Courville* <br>
+Another great introductory book, but focusing on deep learning. <br>
+_PDF available online_
+
 [**Elements of Statistical Learning**](http://statweb.stanford.edu/~tibs/ElemStatLearn) <br>
 *Trevor Hastie, Robert Tibshirani and Jerome Friedman* <br/>
 This book covers similar material to the one above, however, it provides more technical material. <br>
@@ -114,7 +119,7 @@ but do talk about applying Machine Learning in the context of business applicati
 [**Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners**](http://www.amazon.com/gp/product/1502462915) <br>
 *Jared Dean*
 
-Optional references on R. [Here](Computing) are additional resources.
+Optional references on R. [Here](computing) are additional resources.
 
 [**R in a Nutshell**](http://shop.oreilly.com/product/0636920022008.do) <br>
 *Joseph Adler*
