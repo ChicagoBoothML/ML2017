@@ -12,10 +12,10 @@ layout: default
 **Office hours**: by appointment  
 
 **Lectures**:
-Friday 1.30pm-4.30pm, Harper TBD
-Friday 6pm-9pm, Gleacher TBD
+Friday 1.30pm-4.30pm, Harper C07
+Friday 6pm-9pm, Gleacher 406
 
-**Review Session**: 12:15pm-1:pm Saturdays, Gleacher TBD
+**Review Session**: 12:15pm-1:pm Saturdays, Gleacher 406
 
 [Syllabus](syllabus)  
 [Lectures](lectures)  
