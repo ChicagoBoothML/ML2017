@@ -23,4 +23,4 @@ Friday 6pm-9pm, Gleacher TBD
 [Piazza Q&A](https://piazza.com/chicagobooth/winter2018/bus41204/home)  --- You can self-enroll [here](https://piazza.com/chicagobooth/winter2018/bus41204).
 
 **Previous versions**: [2015](https://chicagoboothml.github.io/MachineLearning_Fall2015/),
-[2016](https://chicagoboothml.github.io/2016/)
+[2016](https://chicagoboothml.github.io/ML2016/)
