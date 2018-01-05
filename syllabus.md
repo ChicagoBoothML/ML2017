@@ -131,15 +131,15 @@ Optional references on R. [Here](computing) are additional resources.
 
 _Grades_ will be determined by:
 
-- group homework
+- group homework (19%)
 
-- one individual homework assignment
+- one individual homework assignment (5%)
 
-- participation on Piazza    
+- participation on Piazza  (2%)
 
-- a take-home midterm exam
+- a take-home midterm exam (37%)
 
-- a group final project 
+- a group final project (37%)
 
 
 Students must adhere to Booth Honor Code. But you do not need to include the honor code, and signatures, etc., on your work.
