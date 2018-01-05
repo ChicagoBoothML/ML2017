@@ -27,7 +27,7 @@ permalink: /lectures/
 * k nearest neighbors methods; similarity in machine learning
 * bias-variance trade-off; cross-validation
 
-[Course Overview](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc10ze5k1tk61k),
+[Course Overview](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc1fwhz9qd946x),
 [Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc0qozq44mj4cc)  
 
 Code: 
