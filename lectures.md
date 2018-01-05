@@ -11,8 +11,8 @@ permalink: /lectures/
 | [2]()          |                                                                |                       |
 | [3]()          |                                                                |  &nbsp;&nbsp;HW 1             |
 | [4]()          |                                                                |                   |
-| [5]()          |                                                                |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;    |                 
-| [6]()          |                                                                |  &nbsp;&nbsp;HW 2             |  
+| [5]()          |                                                                |  &nbsp;&nbsp;HW 2     |                 
+| [6]()          |                                                                |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;            |  
 | [7]()          |                                                                |  &nbsp;&nbsp;Midterm          |  
 | [8]()          |                                                                |                   |  
 | [9]()          |                                                                |  &nbsp;&nbsp;HW 3             |
