@@ -28,7 +28,7 @@ permalink: /lectures/
 * bias-variance trade-off; cross-validation
 
 [Course Overview](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc1fwhz9qd946x),
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc0qozq44mj4cc)  
+[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc1gfg4bnmb3d2)  
 
 Code: 
 
