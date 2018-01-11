@@ -9,7 +9,7 @@ permalink: /lectures/
 |:-------------------:|---------------------------------------------------------------|:------------------|
 | [1](#week-1)   | &nbsp;&nbsp;Nearest Neighbors <br>&nbsp;&nbsp;Bias-Variance Trade-Off <br> &nbsp;&nbsp;Cross-Validation   |                   |
 | [2](#week-2)   | &nbsp;&nbsp;Classification and regression trees&nbsp;&nbsp;&nbsp;&nbsp;    |                       |
-| [3]()          |                                                                |  &nbsp;&nbsp;HW 1             |
+| [3](#week-3)   | &nbsp;&nbsp;Bagging and boosting&nbsp;&nbsp;&nbsp;&nbsp;       |    &nbsp;&nbsp;HW 1             |
 | [4]()          |                                                                |                   |
 | [5]()          |                                                                |  &nbsp;&nbsp;HW 2     |                 
 | [6]()          |                                                                |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;            |  
@@ -21,9 +21,24 @@ permalink: /lectures/
 {: .mbtablestyle}
 
 
+## Week 3
+
+Optional reading: 
+
+* ISLR - Section 8
+* Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
+* Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+
+
+
 
 ## Week 2
 
+[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jca00a3gi5j575)   
+Code: 
+
+* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
+* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R)  
 
 Optional reading: 
 
