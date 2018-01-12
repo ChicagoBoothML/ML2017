@@ -23,6 +23,10 @@ permalink: /lectures/
 
 ## Week 3
 
+Code: 
+
+* CaHousingAnalysis: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
+
 Optional reading: 
 
 * ISLR - Section 8
