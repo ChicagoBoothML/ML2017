@@ -25,7 +25,7 @@ permalink: /lectures/
 
 Code: 
 
-* CaHousingAnalysis: [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
+* CaHousingAnalysis: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/CaliforniaHousing/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
 
 Optional reading: 
 
