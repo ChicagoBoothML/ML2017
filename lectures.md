@@ -23,6 +23,8 @@ permalink: /lectures/
 
 ## Week 3
 
+[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jck4lmytuoq2mm)
+
 Code: 
 
 * CaHousingAnalysis: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/CaliforniaHousing/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2016/raw/master/code/lec03/CaHousingAnalysis.pdf)
