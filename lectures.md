@@ -37,7 +37,7 @@ Optional reading:
 * Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
 * Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
-
+[Assignment 2](http://www.piazza.com/class_profile/get_resource/j8padvvrtd375m/jcnkb858bck5m2)
 
 
 ## Week 2
