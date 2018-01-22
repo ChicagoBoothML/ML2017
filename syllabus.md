@@ -98,7 +98,7 @@ _PDF available online_
 Another great introductory book, but focusing on deep learning. <br>
 _PDF available online_
 
-[**Elements of Statistical Learning**](http://statweb.stanford.edu/~tibs/ElemStatLearn) <br>
+[**Elements of Statistical Learning**](https://web.stanford.edu/~hastie/ElemStatLearn/) <br>
 *Trevor Hastie, Robert Tibshirani and Jerome Friedman* <br/>
 This book covers similar material to the one above, however, it provides more technical material. <br>
 _PDF available online_
