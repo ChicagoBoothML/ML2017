@@ -10,7 +10,7 @@ permalink: /lectures/
 | [1](#week-1)   | &nbsp;&nbsp;Nearest Neighbors <br>&nbsp;&nbsp;Bias-Variance Trade-Off <br> &nbsp;&nbsp;Cross-Validation   |                   |
 | [2](#week-2)   | &nbsp;&nbsp;Classification and regression trees&nbsp;&nbsp;&nbsp;&nbsp;    |                       |
 | [3](#week-3)   | &nbsp;&nbsp;Bagging and boosting&nbsp;&nbsp;&nbsp;&nbsp;       |    &nbsp;&nbsp;HW 1             |
-| [4]()          |                                                                |                   |
+| [4](#week-4)   | &nbsp;&nbsp;Evaluating classifiers&nbsp;&nbsp;&nbsp;&nbsp;     |                   |
 | [5]()          |                                                                |  &nbsp;&nbsp;HW 2     |                 
 | [6]()          |                                                                |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;            |  
 | [7]()          |                                                                |  &nbsp;&nbsp;Midterm          |  
@@ -21,14 +21,35 @@ permalink: /lectures/
 {: .mbtablestyle}
 
 
+
+## Week 4
+
+* evaluating classifiers; confusion matrix
+* expected value framework
+* profit and lift curves
+
+[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jctbg7d8y0sx0)
+
+* Kaggle Credit Score: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/GiveMeSomeCredit), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/Kaggle_giveMeCredit.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/Kaggle_giveMeCredit.pdf)    
+* Tabloid: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/Tabloid), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/tabloid.pdf)    
+* Accidents: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/TransportAccidents), [Rmd](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.pdf)
+
+Optional reading: 
+
+* ISLR - Section 4
+
 ## Week 3
+
+* ensemble methods
+* bagging; random forest
+* boosting
 
 [Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jck4lmytuoq2mm)
 
 Code: 
 
 * CaHousingAnalysis: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/CaliforniaHousing/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec03/CaHousingAnalysis.pdf)
-* Accidents: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/TransportAccidents/Accidents.csv), [Rmd](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.pdf)
+
 * [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec03)
 
 Optional reading: 
