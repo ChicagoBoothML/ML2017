@@ -10,12 +10,9 @@ in the context of a real-world data set. Your class project must be about new th
 Project must be done in a group.
 
 
-Here are examples of successful projects from past:
+Examples of some successful projects from past can be found on Piazza:    
+https://piazza.com/chicagobooth/winter2018/bus41204/resources
 
-* [Facial Keypoints Detection](https://piazza.com/class_profile/get_resource/ixiudyq1m7bj0/ixjtnuml5zz797)  
-* [Predicting mutual fund returns using machine learning tools](https://piazza.com/class_profile/get_resource/ixiudyq1m7bj0/ixjtnlzxoh53lm)  
-* [Predicting mutual fund returns using machine learning tools](https://piazza.com/class_profile/get_resource/ixiudyq1m7bj0/ixjtmyt1or4o7)  
-* [Diamonds](https://piazza.com/class_profile/get_resource/ixiudyq1m7bj0/ixjtnbnpbv61po)  
 
 **Deadlines:**
 
