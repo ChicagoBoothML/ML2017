@@ -30,8 +30,8 @@ permalink: /lectures/
 
 [Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jctbg7d8y0sx0)
 
-* Kaggle Credit Score: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/GiveMeSomeCredit), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/Kaggle_giveMeCredit.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/Kaggle_giveMeCredit.pdf)    
-* Tabloid: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/Tabloid), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/lec04/tabloid.pdf)    
+* Kaggle Credit Score: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/GiveMeSomeCredit), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/Kaggle_giveMeCredit.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/Kaggle_giveMeCredit.pdf)    
+* Tabloid: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/Tabloid), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/tabloid.pdf)    
 * Accidents: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/TransportAccidents), [Rmd](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.pdf)
 
 Optional reading: 
