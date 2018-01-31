@@ -11,7 +11,7 @@ permalink: /lectures/
 | [2](#week-2)   | &nbsp;&nbsp;Classification and regression trees&nbsp;&nbsp;&nbsp;&nbsp;    |                       |
 | [3](#week-3)   | &nbsp;&nbsp;Bagging and boosting&nbsp;&nbsp;&nbsp;&nbsp;       |    &nbsp;&nbsp;HW 1             |
 | [4](#week-4)   | &nbsp;&nbsp;Evaluating classifiers&nbsp;&nbsp;&nbsp;&nbsp;     |                   |
-| [5]()          |                                                                |  &nbsp;&nbsp;HW 2     |                 
+| [5](#week-5)   | &nbsp;&nbsp;Support Vector Machines&nbsp;&nbsp;&nbsp;&nbsp;    |  &nbsp;&nbsp;HW 2     |                 
 | [6]()          |                                                                |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;            |  
 | [7]()          |                                                                |  &nbsp;&nbsp;Midterm          |  
 | [8]()          |                                                                |                   |  
@@ -20,7 +20,15 @@ permalink: /lectures/
 | [11]()         | &nbsp;&nbsp;No class; Project write-up due   &nbsp;&nbsp;      |  &nbsp;&nbsp;HW 4             |
 {: .mbtablestyle}
 
+## Week 5
 
+[SVM](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3eu7g8pmf5pu),
+[Optimization](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3euomjcm36oi)   
+Code: [scripts](https://github.com/ChicagoBoothML/ML2016/tree/master/code/lec05)   
+
+Optional reading: 
+
+* ISLR - Section 9
 
 ## Week 4
 
