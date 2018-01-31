@@ -22,6 +22,10 @@ permalink: /lectures/
 
 ## Week 5
 
+* perceptron, linear classifiers
+* support vector machines
+* gradient descent
+
 [SVM](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3eu7g8pmf5pu),
 [Optimization](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3euomjcm36oi)   
 Code: [scripts](https://github.com/ChicagoBoothML/ML2016/tree/master/code/lec05)   
