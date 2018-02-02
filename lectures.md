@@ -34,6 +34,8 @@ Optional reading:
 
 * ISLR - Section 9
 
+Individual homework: [PDF](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd5gzpp088u44h)
+
 ## Week 4
 
 * evaluating classifiers; confusion matrix
