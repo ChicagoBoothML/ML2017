@@ -20,7 +20,26 @@ permalink: /lectures/
 | [11]()         | &nbsp;&nbsp;No class; Project write-up due   &nbsp;&nbsp;      |  &nbsp;&nbsp;HW 4             |
 {: .mbtablestyle}
 
+## Week 8
+
+* recommender systems
+
+Optional reading:
+
+* We will be using recommenderlab package.
+  + [recommenderlab: Reference manual](https://cran.r-project.org/web/packages/recommenderlab/recommenderlab.pdf)   
+  + [recommenderlab: Vignette](https://cran.r-project.org/web/packages/recommenderlab/vignettes/recommenderlab.pdf)   
+* [Amazon.com Recommendations](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) 
+* [Cold Start Problem](https://pdfs.semanticscholar.org/44af/1071f2b943b178ea8259e14fb0c722a3bcd4.pdf) ---  Finding a Needle in a Haystack of Reviews    
+* [Matrix Factorization Techniques For Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
+* [All Together Now: A Perspective on the Netflix Prize](http://dx.doi.org/10.1080/09332480.2010.10739787)
+
+
+
 ## Week 7
+
+* convolutional neural networks
+* auto-encoders
 
 [Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jdp00x7z93j2x1)    
 Code: [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec06)   
@@ -33,6 +52,8 @@ Optional reading:
 
 
 ## Week 6
+
+* Introduction to neural networks
 
 [Neural networks](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jdenydk5lgz4mn)   
 Code: [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec06)   
