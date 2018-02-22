@@ -35,7 +35,7 @@ Optional reading:
 * recommender systems
 
 [Recommender Systems]()  --- Guest lecture: [Rina Foygel Barber](https://www.stat.uchicago.edu/~rina/)     
-Code: [script](https://github.com/ChicagoBoothML/ML2016/tree/master/lec08)  
+Code: [script](https://github.com/ChicagoBoothML/ML2017/tree/master/lec08)  
 
 Optional reading:
 
