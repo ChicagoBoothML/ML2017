@@ -14,15 +14,28 @@ permalink: /lectures/
 | [5](#week-5)   | &nbsp;&nbsp;Support Vector Machines&nbsp;&nbsp;&nbsp;&nbsp;    |  &nbsp;&nbsp;HW 2     |                 
 | [6](#week-6)   | &nbsp;&nbsp;Intro to Neural networks&nbsp;&nbsp;&nbsp;         |  &nbsp;&nbsp;Individual HW&nbsp;&nbsp;            |  
 | [7](#week-7)   | &nbsp;&nbsp;Deep learning&nbsp;&nbsp;&nbsp;            |  &nbsp;&nbsp;Midterm          |  
-| [8]()          |                                                                |                   |  
-| [9]()          |                                                                |  &nbsp;&nbsp;HW 3             |
+| [8](#week-8)   | &nbsp;&nbsp;Recommender Systems&nbsp;&nbsp;&nbsp;              |                   |  
+| [9](#week-9)   | &nbsp;&nbsp;Sequence Modelling                                 |  &nbsp;&nbsp;HW 3             |
 | [10]()         | &nbsp;&nbsp;In-class project presentation      &nbsp;&nbsp;    |                   |
 | [11]()         | &nbsp;&nbsp;No class; Project write-up due   &nbsp;&nbsp;      |  &nbsp;&nbsp;HW 4             |
 {: .mbtablestyle}
 
+## Week 9
+
+[Sequence Modelling]()
+
+Optional reading: 
+
+* Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville    
+  Book available at: http://www.deeplearningbook.org/    
+  Chapter 15 
+
 ## Week 8
 
 * recommender systems
+
+[Recommender Systems]()  --- Guest lecture: [Rina Foygel Barber](https://www.stat.uchicago.edu/~rina/) 
+Code: [script](https://github.com/ChicagoBoothML/ML2016/tree/master/lec08)  
 
 Optional reading:
 
