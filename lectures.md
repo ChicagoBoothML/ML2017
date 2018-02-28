@@ -22,7 +22,9 @@ permalink: /lectures/
 
 ## Week 9
 
-[Sequence Modelling]()
+[Sequence Modelling](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/je7n8aopp8c39) --- First half of the lecture    
+Guest speaker: Vinh Luong --- Second half of the lecture    
+
 
 Optional reading: 
 
