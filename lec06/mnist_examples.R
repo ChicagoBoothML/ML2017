@@ -224,7 +224,7 @@ if (inClass == FALSE) {
                            input_dropout_ratio=0.2,
                            classification_stop=-1,  # Turn off early stopping
                            l1=1e-5,
-                           hidden=c(1024,1024,2048), epochs=1000,
+                           hidden=c(1024,1024,2048), epochs=10,
                            model_id = "goodModel.epoch1000"
     )
     h2o.saveModel(mdl, path = "mnist")  
